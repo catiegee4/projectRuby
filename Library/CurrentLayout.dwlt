@@ -391,9 +391,9 @@ MonoBehaviour:
     height: 645
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 48010000
+    m_SelectedIDs: 10250000
     m_LastClickedID: 0
-    m_ExpandedIDs: c0fbffff00000000
+    m_ExpandedIDs: c0fbffff00000000cc290000ae2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -615,7 +615,7 @@ MonoBehaviour:
   m_LastProjectPath: I:\Documents\Git\PR2
   m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 51}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 10250000
     m_LastClickedID: 9488
     m_ExpandedIDs: 000000001025000000ca9a3bffffff7f
@@ -673,7 +673,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 360600003a060000c81c00005008000024250000ce28000000000000e82300007a2600006c2700003e2700004c2700008c260000b8260000de2b000032620000382800003428000042260000722b000054280000c4250000a8250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
