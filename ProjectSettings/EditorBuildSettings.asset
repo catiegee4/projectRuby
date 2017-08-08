@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/skylab_Scene6.unity
+    path: Assets/Scenes/skylab_Scene6.unity
     guid: ed1d818d8e18dc943984a0bb5a24771a
   - enabled: 0
-    path: Assets/skylab_Scene6.unity
+    path: Assets/Scenes/skylab_Scene6.unity
     guid: ed1d818d8e18dc943984a0bb5a24771a
   - enabled: 1
-    path: Assets/skylab_Scene1.unity
+    path: Assets/Scenes/skylab_Scene1.unity
     guid: 1f046f50fc16d7e49a8c5cd8224692a0
